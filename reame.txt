@@ -1,0 +1,3 @@
+Głównym celem tego projektu było zapoznanie się ze rodzajami list, ich implementacją oraz ręcznym i automatycznym scrollowaniem.
+Treść strony została pobrana z kursu od Mirosława Zelenta.
+Zawartość index.html dla <div class="slide"> zawierają zaimplementowne właściwości w kodzie html zamiast w CSS dla celów dydaktycznych. W przypadku właściwego projektu style znajdujące sie we wspomnianym divie (jego dzieciach) zostały by standardowo zdefiniowane w pliku CSS.
