@@ -122,3 +122,8 @@ h1 {
     bottom: 50px;
     display: none;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
+  
